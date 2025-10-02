@@ -1,2 +1,2 @@
 # sql-data-warehouse-project
-Proyecto de contrucción de data warehouse
+Proyecto completo de construcción de un data warehouse en SQL Server utilizando una arquitectura medallón.
